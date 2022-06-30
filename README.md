@@ -13,7 +13,7 @@ SemicolonPack은 1.17부터 개발되어 온 리소스팩입니다!
 - SemiColonPack One - 1.18.x ~ 1.19 버전 전용 리소스팩입니다. (1.18.x 버전에서 적용할때 경고문이 떠도 무시하십시오. 테스트버전 : 1.18.2 ~ 1.19) 
 - SemiColonPack M - Bedrock 전용 리소스팩입니다. (아직 제대로 개발되지 않았습니다) 
 - SemiColonPack X - 하이픽셀 전용 리소스팩이 포함되어있습니다.
-- SemiColonPack O - Other (하이픽셀 리소스팩 외에 1.18 미만 구버전 리소스팩이 포함되어있습니다)
+- SemiColonPack O - Other (하이픽셀 리소스팩 외에 1.18 미만 구버전 리소스팩 & 투명 GUI 리소스팩(최신) 이 포함되어있습니다)
 # 다운로드 & 커뮤니티
 - 다운로드 https://www.curseforge.com/minecraft/texture-packs/semicolonpack
 - 커뮤니티 https://discord.gg/AJZueA85VD

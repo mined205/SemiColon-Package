@@ -15,6 +15,7 @@ SemicolonPack은 1.17부터 개발되어 온 리소스팩입니다!
 - SemiColonPack X - 하이픽셀 전용 리소스팩이 포함되어있습니다.
 - SemiColonPack O - Other (하이픽셀 리소스팩 외에 1.18 미만 구버전 리소스팩 & 투명 GUI 리소스팩(최신) 이 포함되어있습니다)
 # 다운로드 & 커뮤니티
-- 다운로드 https://www.curseforge.com/minecraft/texture-packs/semicolonpack
+- 다운로드(SemiColon ONE) https://www.curseforge.com/minecraft/texture-packs/semicolonpack
 - 커뮤니티 https://discord.gg/AJZueA85VD
 - 기획ㆍ개발자 개인 커뮤니티 https://discord.gg/EgANBAhKws
+- 비고 : SemiColon ONE 외엔 개발자 개인 커뮤니티에서 내려받으시기바랍니다.)

@@ -18,4 +18,4 @@ SemicolonPack은 1.17부터 개발되어 온 리소스팩입니다!
 - 다운로드 https://www.curseforge.com/minecraft/texture-packs/semicolonpack
 - 커뮤니티 https://discord.gg/AJZueA85VD
 - 기획ㆍ개발자 개인 커뮤니티 https://discord.gg/EgANBAhKws
-
++* 테스트

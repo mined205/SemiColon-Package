@@ -14,8 +14,20 @@ SemicolonPack은 1.17부터 개발되어 온 리소스팩입니다!
 - SemiColonPack M - Bedrock 전용 리소스팩입니다. (아직 제대로 개발되지 않았습니다) 
 - SemiColonPack X - 하이픽셀 전용 리소스팩이 포함되어있습니다.
 - SemiColonPack O - Other (하이픽셀 리소스팩 외에 1.18 미만 구버전 리소스팩 & 투명 GUI 리소스팩(최신) 이 포함되어있습니다)
-# 다운로드 & 커뮤니티
-- 다운로드(SemiColon ONE) https://www.curseforge.com/minecraft/texture-packs/semicolonpack
+- 다운로드는 아래를 참고바랍니다.
+# 커뮤니티
+- curseforge에서 내려받기(SemiColon ONE) : https://www.curseforge.com/minecraft/texture-packs/semicolonpack
 - 커뮤니티 https://discord.gg/AJZueA85VD
 - 기획ㆍ개발자 개인 커뮤니티 https://discord.gg/EgANBAhKws
 - 비고 : SemiColon ONE & 외엔 개발자 개인 커뮤니티에서 내려받으시기바랍니다.)
+# 업그레이드 기록중 SC Pack One
+- SC Pack One 0.7.4 업그레이드 내용:
+- 발전과제 창 GUI 업그레이드
+- 크리에이티브 인벤토리 섹션 UI 업그레이드
+- 미디어 파이어에서 내려받기 : https://url.kr/ze6gxu
+- curseforge에서 내려받기 : (승인후 사용가능)
+======================================================
+- SC Pack One 0.7.2.1 업그레이드 내용 :
+- 핫바의 6번칸이 다른 칸과 색깔이 다른 버그 수정
+- 미디어 파이어에서 내려받기 : https://c11.kr/10u6q
+# Thank you for reading

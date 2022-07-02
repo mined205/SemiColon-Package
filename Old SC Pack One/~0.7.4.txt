@@ -1,0 +1,78 @@
+https://www.mediafire.com/file/7g9dnrvotj6apab/%25C2%25A72%25C2%25A7lSC_Pack_%25C2%25A76%25C2%25A7lOne_%25C2%25A770.6.3.zip/file
+SC Pack One 0.6.3 출시
+- 네이버 나눔 스퀘어 라운드 폰트 적용
+
+
+
+https://www.mediafire.com/file/99eatlfuy53k88h/%25C2%25A72%25C2%25A7lSC_Pack_%25C2%25A76%25C2%25A7lOne_%25C2%25A770.6.4.zip/file
+SC Pack One 0.6.4 출시
+- 커맨드 블럭 버튼의 글씨에 색깔 적용
+- 온, 오프 글씨에 색깔 적용
+- 공허 블럭의 저장/불러오기 글씨 색깔 적용
+- 완료/취소 글씨에 색깔 적용
+
+
+
+https://www.mediafire.com/file/i9jrh5xodqejbak/%25C2%25A72%25C2%25A7lSC_Pack_%25C2%25A76%25C2%25A7lOne_%25C2%25A770.6.5.zip/file
+SC Pack One 0.6.5 출시
+- "기막히게!"로 설정했을때 쉐이더 대신 어두운 곳에서 밝기를 올려주는 Auto Gamma 기능이 탑제
+
+
+
+https://www.mediafire.com/file/1qut4vt8u82oik2/%25C2%25A72%25C2%25A7lSC_Pack_%25C2%25A76%25C2%25A7lOne_%25C2%25A770.6.5.1.zip/file
+SC Pack One 0.6.5.1 출시
+- credits.txt, memo.txt, patchnote.txt의 잘못된 정보 수정
+
+
+
+https://www.mediafire.com/file/ijivy61jm2ozrcu/%25C2%25A72%25C2%25A7lSC_Pack_%25C2%25A76%25C2%25A7lOne_%25C2%25A770.6.6.zip/file
+SC Pack One 0.6.6 출시
+- 세미콜론팩 자체개발 부수기 진행도
+
+
+
+https://www.mediafire.com/file/dv3n18n19dxcx6y/%25C2%25A72%25C2%25A7lSC_Pack_%25C2%25A76%25C2%25A7lOne_%25C2%25A770.7.zip/file
+SC Pack One 0.7 출시
+- 대폭 향상된 GUI
+
+
+
+https://www.mediafire.com/file/danh7fplh8qrvhx/%25C2%25A72%25C2%25A7lSC_Pack_%25C2%25A76%25C2%25A7lOne_%25C2%25A770.7.1.zip/file
+SC pack One 0.7.1 출시
+- 더 잘 보이는 버튼
+
+
+
+https://www.mediafire.com/file/hl0xn7sc62n7on3/%25C2%25A72%25C2%25A7lSC_Pack_%25C2%25A76%25C2%25A7lOne_%25C2%25A770.7.2.zip/file
+SC Pack One 0.7.2 출시
+- "건초 더미"를 "밀 블럭"으로 이름을 바꿈 
+
+
+
+https://www.mediafire.com/file/7xlp5novis6ccoh/%25C2%25A72%25C2%25A7lSC_Pack_%25C2%25A76%25C2%25A7lOne_%25C2%25A770.7.2.1.zip/file
+SC Pack One 0.7.2.1 출시
+- 핫바의 6번칸이 다른 칸과 색깔이 다른 버그 수정
+
+
+
+https://www.curseforge.com/minecraft/texture-packs/semicolonpack/files/3853993
+SC Pack One 0.7.3 출시
+양조기 가이드가 누락된 버그 수정
+
+
+
+https://www.curseforge.com/minecraft/texture-packs/semicolonpack/files
+세미콜론팩 One|X 가 이제 여기서 업로드 됩니다!
+
+
+
+=SC Pack One 0.7.4 업그래이드 내용=
+ ㆍ발전과제 창 GUI 업그레이드
+ ㆍ크리에이티브 인벤토리 섹션 UI 업그레이드
+
+=사용방법=
+curse forge에서 내려받기 : (승인후 이용가능)
+MediaFire에서 내려받기 : https://www.mediafire.com/file/vv8rz4ewu0ymtwe/%25C2%25A72%25C2%25A7lSC%252BPack%252B%25C2%25A76%25C2%25A7lOne%252B%25C2%25A770.7.4.zip/file
+
+사용 가능 버전 : 1.18.x ~ 1.19
+테스트된 버전 : 1.18.2 ~ 1.19

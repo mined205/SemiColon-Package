@@ -26,10 +26,11 @@ SemicolonPack은 1.17부터 개발되어 온 리소스팩입니다!
 - 크리에이티브 인벤토리 섹션 UI 업그레이드
 - 미디어 파이어에서 내려받기 : https://url.kr/ze6gxu
 - curseforge에서 내려받기 : https://www.curseforge.com/minecraft/texture-packs/semicolonpack/files
-- ======================================================
-- SC Pack One 0.7.2.1 업그레이드 내용 :
-- 핫바의 6번칸이 다른 칸과 색깔이 다른 버그 수정
-- 미디어 파이어에서 내려받기 : https://c11.kr/10u6q
-- ======================================================
+# 업그레이드 기록완결 SC Pack X(Hypixel Pack)
+- SC Pack X 15.1 업그레이드 내용:
+- No changelog provided
+- 업그레이드가 완결된 팩 curseforge에서 내려받기 : https://zrr.kr/kRn3
+- cursefoge 에서 못내려받을경우 미디어파이어에서 내려받기 : https://zrr.kr/BA3O
+- =======================================================================
 - 이 외에는 개발자 개인 커뮤니티에서 내려받으시기바랍니다.
 # Thank you for reading

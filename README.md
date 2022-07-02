@@ -25,7 +25,7 @@ SemicolonPack은 1.17부터 개발되어 온 리소스팩입니다!
 - 발전과제 창 GUI 업그레이드
 - 크리에이티브 인벤토리 섹션 UI 업그레이드
 - 미디어 파이어에서 내려받기 : https://url.kr/ze6gxu
-- curseforge에서 내려받기 : (승인후 사용가능)
+- curseforge에서 내려받기 : https://www.curseforge.com/minecraft/texture-packs/semicolonpack/files
 - ======================================================
 - SC Pack One 0.7.2.1 업그레이드 내용 :
 - 핫바의 6번칸이 다른 칸과 색깔이 다른 버그 수정

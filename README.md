@@ -16,10 +16,10 @@ SemicolonPack은 1.17부터 개발되어 온 리소스팩입니다!
 - SemiColonPack O - Other (하이픽셀 리소스팩 외에 1.18 미만 구버전 리소스팩 & 투명 GUI 리소스팩(최신) 이 포함되어있습니다)
 - 다운로드는 아래를 참고바랍니다.
 # 커뮤니티
-- curseforge에서 내려받기(SemiColon ONE) : https://www.curseforge.com/minecraft/texture-packs/semicolonpack
+- curseforge에서 내려받기(SemiColon ONE|X) : https://www.curseforge.com/minecraft/texture-packs/semicolonpack
 - 커뮤니티 https://discord.gg/AJZueA85VD
 - 기획ㆍ개발자 개인 커뮤니티 https://discord.gg/EgANBAhKws
-- 비고 : SemiColon ONE 외엔 개발자 개인 커뮤니티에서 내려받으시기바랍니다.)
+- 비고 : SemiColon ONE|X 외엔 개발자 개인 커뮤니티에서 내려받으시기바랍니다.)
 # 업그레이드 기록중 SC Pack One
 - SC Pack One 0.7.4 업그레이드 내용:
 - 발전과제 창 GUI 업그레이드

@@ -21,11 +21,11 @@ SemicolonPack은 1.17부터 개발되어 온 리소스팩입니다!
 - 기획ㆍ개발자 개인 커뮤니티 https://discord.gg/EgANBAhKws
 - 비고 : SemiColon ONE|X 외엔 개발자 개인 커뮤니티에서 내려받으시기바랍니다.)
 # 업그레이드 기록중 SC Pack One
-- SC Pack One 0.7.4 업그레이드 내용:
-- 발전과제 창 GUI 업그레이드
-- 크리에이티브 인벤토리 섹션 UI 업그레이드
-- 미디어 파이어에서 내려받기 : https://url.kr/ze6gxu
-- curseforge에서 내려받기 : https://www.curseforge.com/minecraft/texture-packs/semicolonpack/files
+- SC Pack One 0.7.5 업그레이드 내용:
+- 스카이 오버레이 제거
+- 흔들리는 꽃, 잔디들
+- 3D 레드스 톤 가루
+- 더 커진 레드스톤 가루 신호 표시 숫자
 # 거의 완결된 리소스팩 SC Pack X(Hypixel Pack)
 - SC Pack X 15.1 업그레이드 내용:
 - curseforge에서 내려받기 : https://zrr.kr/kRn3

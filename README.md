@@ -21,10 +21,7 @@ SemicolonPack은 1.17부터 개발되어 온 리소스팩입니다!
 - 기획ㆍ개발자 개인 커뮤니티 https://discord.gg/EgANBAhKws
 - 비고 : SemiColon ONE|X 외엔 개발자 개인 커뮤니티에서 내려받으시기바랍니다.)
 # 업그레이드 기록중 SC Pack One
-=SC Pack One 0.7.7 BOOST 업그래이드 내용=
-메이플스토리 폰트로 교체
-오토 감마 기능 삭제
-FPS 개선
+- 깃허브 릴리즈에서 확인 바람.
 
 # 거의 완결된 리소스팩 SC Pack X(Hypixel Pack)
 - SC Pack X 15.1 업그레이드 내용:
